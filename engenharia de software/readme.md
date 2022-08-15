@@ -2,4 +2,4 @@
 
 Titus Winters, Software Engineering at Google
 
-Na engenharia de software, 
+Na engenharia de software, são estudados todos os processos de construção de um software, visando sempre na constante melhoria, sofrendo alterações e alguns erros de manutenção, baseando-se na necessidade do cliente.
