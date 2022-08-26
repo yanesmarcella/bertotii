@@ -4,11 +4,22 @@ Titus Winters, Software Engineering at Google
 
 - Na engenharia de software, são estudados todos os processos de construção de um software, visando sempre na constante melhoria, analisando e procurando resolver os problemas encontrados, negociando, sofrendo alterações e alguns erros de manutenção, baseando-se na necessidade do cliente.
 
-**ATIVIDADE DE REQUISITOS
+
+
+
+
+**ATIVIDADE DE REQUISITOS**
+
 Requisitos funcionais:
 - Funcionário pode cadastrar livros,inserindo data de lançamento, gênero, editora, faixa de preço:
 - Ele pode buscar por um conjunto  de livros utilizando o sistema data de lançamento, gênero, editora, faixa de preço.
 
-Requisitos nçao funcionais:
+Requisitos não funcionais:
 - Interface simples e objetiva;
 - Portabilidade;
+
+
+GRAFOS
+
+![grafo01](https://user-images.githubusercontent.com/102261833/187001497-f0e5abae-5520-4b4f-a55a-f0c4217a7a8b.png)
+![grafo02](https://user-images.githubusercontent.com/102261833/187001556-d96b7a94-af5f-41f7-b325-301496334359.png)
