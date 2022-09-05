@@ -22,4 +22,4 @@ Requisitos não funcionais:
 GRAFOS
 
 ![grafo01](https://user-images.githubusercontent.com/102261833/187001497-f0e5abae-5520-4b4f-a55a-f0c4217a7a8b.png)
-![grafo02](https://user-images.githubusercontent.com/102261833/187001556-d96b7a94-af5f-41f7-b325-301496334359.png)
+
