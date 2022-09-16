@@ -11,8 +11,8 @@ Titus Winters, Software Engineering at Google
 **ATIVIDADE DE REQUISITOS**
 
 Requisitos funcionais:
-- Funcionário pode cadastrar livros,inserindo data de lançamento, gênero, editora, faixa de preço:
-- Ele pode buscar por um conjunto  de livros utilizando o sistema data de lançamento, gênero, editora, faixa de preço.
+- Funcionário pode cadastrar livros,inserindo gênero, editora, faixa de preço:
+- Ele pode buscar por um conjunto  de livros utilizando  gênero, editora, faixa de preço.
 
 Requisitos não funcionais:
 - Interface simples e objetiva;
@@ -21,5 +21,5 @@ Requisitos não funcionais:
 
 GRAFOS
 
-![grafo01](https://user-images.githubusercontent.com/102261833/187001497-f0e5abae-5520-4b4f-a55a-f0c4217a7a8b.png)
+
 
