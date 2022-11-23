@@ -20,6 +20,6 @@ Requisitos não funcionais:
 
 
 GRAFOS
-
+<img width="960" alt="o" src="https://user-images.githubusercontent.com/102261833/203662306-4e923963-8d19-4d51-8e97-57db4987e569.png">
 
 
