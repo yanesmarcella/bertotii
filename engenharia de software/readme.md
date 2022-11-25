@@ -1,27 +1,26 @@
-"We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth. Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
-
-Titus Winters, Software Engineering at Google
-
-- Na engenharia de software, são estudados todos os processos de construção de um software, visando sempre na constante melhoria, analisando e procurando resolver os problemas encontrados, negociando, sofrendo alterações e alguns erros de manutenção, baseando-se na necessidade do cliente.
-
-
-
+Ciclo de vida
 
 
 **ATIVIDADE DE REQUISITOS**
 
 Requisitos funcionais:
-- Funcionário pode cadastrar livros,inserindo gênero, editora, faixa de preço:
-- Ele pode buscar por um conjunto  de livros utilizando  gênero, editora, faixa de preço.
+- Funcionário pode cadastrar livros,inserindo gênero, editora:
+- Ele pode buscar por um conjunto  de livros utilizando  gênero, editora.
 
 Requisitos não funcionais:
 - Interface simples e objetiva;
 - Portabilidade;
 
 
-GRAFOS
-<img width="960" alt="o" src="https://user-images.githubusercontent.com/102261833/203662306-4e923963-8d19-4d51-8e97-57db4987e569.png">
 
-<img width="960" alt="02" src="https://user-images.githubusercontent.com/102261833/204059141-3e229173-4de8-4ade-9449-c378a70f7326.png">
+<img width="623" alt="022" src="https://user-images.githubusercontent.com/102261833/204062497-30a89a78-b704-4970-818b-4cbb25195426.png">
+
+<img width="873" alt="033" src="https://user-images.githubusercontent.com/102261833/204062503-5776dece-3afc-483b-a459-c84b3df89843.png">
+
+<img width="941" alt="044" src="https://user-images.githubusercontent.com/102261833/204062507-1e1da9b6-f8e7-4136-9614-437aabe59d7a.png">
+
+<img width="919" alt="055" src="https://user-images.githubusercontent.com/102261833/204062522-97758484-2d56-4ed1-9e76-8e5875add1dd.png">
 
 
+
+<img width="960" alt="011" src="https://user-images.githubusercontent.com/102261833/204062539-5060eeb2-7fa8-448b-b265-8184f4259314.png">
