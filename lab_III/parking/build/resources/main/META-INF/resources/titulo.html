@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Busca por Titulo</title>
+	
+    
+	<script src="js/jquery.js"></script>
+	
+
+	<link href="css/bootstrap.min.css" rel=stylesheet>
+	
+	
+	<script>
+		$(document).ready(function(){
+			
+
+			$("#busca").click(function() {
+
+				var titulo = $("#titulo").val();
+				
+					
+				$("#dadosLivro").empty();
+					
+				var url = "/livro/" + titulo;
+				
+					
+
+				$.getJSON(url, function(data) {
+						
+						var itens = [];
+						
+						
+						
+						itens.push("<tr> <td>"+ data.titulo +"</td><td>"+ data.espc.genero + "</td><td>" + data.espc.editora +"</td></tr>");
+							
+						
+									
+						$("#dadosLivro").append(itens);
+						
+				});
+
+			});
+
+		});
+
+	</script>
+
+   
+  </head>
+
+
+  <body>
+		
+
+  		<div id="painelBusca">
+            
+		
+		
+        <input id="titulo" class="form-control col-md-offset-5" type="text" placeholder="Default input">
+		
+		<button id="busca" class="btn btn-success col-md-offset-5">Buscar</button>
+		
+		<table class="table table-bordered"> 
+			<caption>Livros</caption>
+				<thead>
+					<tr> 
+						<th>Titulo</th>
+						<th>Genero</th> 
+						<th>Editora</th> 
+					</tr> 
+				</thead> 
+				
+				<tbody id="dadosLivro"> 
+					
+				</tbody> 
+		</table>
+
+		
+  </body>
+  
+</html>
